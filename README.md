@@ -1,1 +1,1 @@
-## Flask React boilerplate
+## Flask boilerplate
